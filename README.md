@@ -11,7 +11,7 @@ Number of Good Matches:  293
 
  
 
-## SIFT
+## Using SIFT
 
 descriptors1 (3864, 128)
 
