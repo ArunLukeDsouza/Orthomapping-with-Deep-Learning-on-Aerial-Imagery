@@ -1,6 +1,6 @@
 # Orthomapping-with-Deep-Learning-on-Aerial-Imagery
 
-Using Deep Learing
+Using Deep Learning
 
 descriptors1 (5272, 512)
 descriptors2 (5160, 512)
