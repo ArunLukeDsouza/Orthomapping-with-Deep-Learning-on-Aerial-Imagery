@@ -1,6 +1,6 @@
 # Orthomapping-with-Deep-Learning-on-Aerial-Imagery
 
-Using Deep Learning
+## Using Deep Learning
 
 descriptors1 (5272, 512)
 
@@ -9,9 +9,9 @@ descriptors2 (5160, 512)
 Number of Good Matches:  293
 
 
+ 
 
-
-Using SIFT
+## SIFT
 
 descriptors1 (3864, 128)
 
