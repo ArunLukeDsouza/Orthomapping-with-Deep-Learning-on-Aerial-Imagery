@@ -19,6 +19,6 @@ Feature detection and description is achieved using D2-Net. The D2-Net is a trai
 
 ![](https://github.com/ArunLukeDsouza/Orthomapping-with-Deep-Learning-on-Aerial-Imagery/blob/main/Images/Comparison_1.jpg)
 ![](https://github.com/ArunLukeDsouza/Orthomapping-with-Deep-Learning-on-Aerial-Imagery/blob/main/Images/Comparison_2.jpg)
-![](https://github.com/ArunLukeDsouza/Orthomapping-with-Deep-Learning-on-Aerial-Imagery/blob/main/Images/Orthomosaic_result.png)
+![Orthomapping Results](https://github.com/ArunLukeDsouza/Orthomapping-with-Deep-Learning-on-Aerial-Imagery/blob/main/Images/Orthomosaic_result.png)
 
 
